@@ -51,7 +51,7 @@ Daily.co WebRTC room
 ## Quick start
 
 ```bash
-git clone https://github.com/AssemblyAI/voice-agent-pipecat-universal-3-pro
+git clone https://github.com/kelseyefoster/voice-agent-pipecat-universal-3-pro
 cd voice-agent-pipecat-universal-3-pro
 
 python -m venv .venv && source .venv/bin/activate
